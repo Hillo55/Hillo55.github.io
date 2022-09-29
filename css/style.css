@@ -1,0 +1,18 @@
+body {
+background-color:Orangered;
+}
+
+h1 {
+  color:;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+#borderimg { 
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(border.png) 30 round;
