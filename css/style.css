@@ -6,13 +6,27 @@ h1 {
   color:;
   text-align: center;
 }
+header {
+margin:0 auto;
+width:1200px;
+height:700px;
+text-align:center;
+background-image:url(tpbimg2.png);
+background-repeat: no-repeat;
+ background-position: center top;
+}
 
 p {
   font-family: verdana;
   font-size: 20px;
 }
 
+.box {
+ background.image: url(tbpimg2.png) 45 round;
+}
+
 #borderimg { 
   border: 10px solid transparent;
   padding: 15px;
-  border-image: url(border.png) 30 round;
+  border-image: url(img/tbpimg2.png) 15 round;
+}
