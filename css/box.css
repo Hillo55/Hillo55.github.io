@@ -1,7 +1,17 @@
 .box {
- background-color:;
+ background-color:DodgerBlue;
  width: 400px;
- padding: 50px;
+ padding: 25px 60px 45px 30px;
  border: solid 20px black;
  box-sizing: border-box;
+ margin: 40px;
+ border: 10px RosyBrown; 
+ border-top: 10px RosyBrown;
+ margin: 0 auto;
+}
+
+h2{
+ background-color:MediumSeaGreen;
+ margin: 0;
+ margin: -100px 0 0 -50px;
 }
