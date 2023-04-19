@@ -16,13 +16,13 @@
     <script>
         var input = document.querySelector(".js-name")
         var nameElem = document.querySelector(".js-change-name")
-        function callback(event) {
+        function callBack(event) {
             nameElem.innerText = event.target.value
         }
-            input.addEventListener('keyup', function (event) {
+            input.addEventListener('keyup', callBack)
         //console.log(event.target.value)
 
-        })
+        
 
 
     </script>
